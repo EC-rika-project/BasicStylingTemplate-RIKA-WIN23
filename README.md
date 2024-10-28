@@ -1,5 +1,3 @@
-# BasicStylingTemplate-RIKA-WIN23
-
 # How to use?
 
 - I HTML-filerna finns boilerplate kod att hämta för både sektioner och enskilda komponenter.
